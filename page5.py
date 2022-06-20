@@ -24,5 +24,5 @@ def backroom():
   time.sleep(4)
   print("Miraculously, your heart starts beating again. When you wake up, you smell the slight fragrance of paint. Once you open your eyes, you find yourself in a seemingly endless, dimly lit room of yellow walls and moist carpets.")
   time.sleep(2)
-  print("You explore the maze of walls, only to find entities lurking all around you. You slowly come to the crushing realization that your soul is stuck in an endless limbo and must wander there for eternity.")
+  print("You desparately explore the maze of walls, slowly coming to the crushing realization that your soul is stuck in an endless limbo and must wander there for eternity.")
  
